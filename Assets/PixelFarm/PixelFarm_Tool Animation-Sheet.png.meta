@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 2076d1b7c3c35b94d9f8e2901722ae37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8664310418912088585
+    second: PixelFarm_Tool Animation-Sheet_0
+  - first:
+      213: 5162215901948227220
+    second: PixelFarm_Tool Animation-Sheet_1
+  - first:
+      213: -2285030919724667215
+    second: PixelFarm_Tool Animation-Sheet_2
+  - first:
+      213: -1728189901419390057
+    second: PixelFarm_Tool Animation-Sheet_3
+  - first:
+      213: 3890898744684140
+    second: PixelFarm_Tool Animation-Sheet_4
+  - first:
+      213: 1260069577896036552
+    second: PixelFarm_Tool Animation-Sheet_5
+  - first:
+      213: 4580069618526863220
+    second: PixelFarm_Tool Animation-Sheet_6
+  - first:
+      213: 6113816381709191417
+    second: PixelFarm_Tool Animation-Sheet_7
+  - first:
+      213: 6231388970987754774
+    second: PixelFarm_Tool Animation-Sheet_8
+  - first:
+      213: 515435139293625333
+    second: PixelFarm_Tool Animation-Sheet_9
+  - first:
+      213: -1948195748259738904
+    second: PixelFarm_Tool Animation-Sheet_10
+  - first:
+      213: 1421762890059359561
+    second: PixelFarm_Tool Animation-Sheet_11
+  - first:
+      213: -2482283796935281640
+    second: PixelFarm_Tool Animation-Sheet_12
+  - first:
+      213: -995263828609513637
+    second: PixelFarm_Tool Animation-Sheet_13
+  - first:
+      213: 6200858043696475731
+    second: PixelFarm_Tool Animation-Sheet_14
+  - first:
+      213: -1701322495684896580
+    second: PixelFarm_Tool Animation-Sheet_15
+  - first:
+      213: 2045698911736028711
+    second: PixelFarm_Tool Animation-Sheet_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelFarm_Tool Animation-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 151
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd6709549f22c780800000000000000
+      internalID: -8664310418912088585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFarm_Tool Animation-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 149
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e2f712300e3a740800000000000000
+      internalID: 5162215901948227220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFarm_Tool Animation-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 151
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bee6013c70f940e0800000000000000
+      internalID: -2285030919724667215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFarm_Tool Animation-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 148
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bda75e07c3408e0800000000000000
+      internalID: -1728189901419390057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFarm_Tool Animation-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 151
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ea88570c2dd0000800000000000000
+      internalID: 3890898744684140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFarm_Tool Animation-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 148
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c805ceda9aac7110800000000000000
+      internalID: 1260069577896036552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFarm_Tool Animation-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 150
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f3ad24d0daf8f30800000000000000
+      internalID: 4580069618526863220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFarm_Tool Animation-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 100
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f88db55b93a8d450800000000000000
+      internalID: 6113816381709191417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFarm_Tool Animation-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 98
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6151309f0475a7650800000000000000
+      internalID: 6231388970987754774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFarm_Tool Animation-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 101
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbb95e3781372700800000000000000
+      internalID: 515435139293625333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFarm_Tool Animation-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 99
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea4d08f94e96f4e0800000000000000
+      internalID: -1948195748259738904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFarm_Tool Animation-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 49
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94522d0d0dd1bb310800000000000000
+      internalID: 1421762890059359561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFarm_Tool Animation-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 54
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814f6f3d9082d8dd0800000000000000
+      internalID: -2482283796935281640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFarm_Tool Animation-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 49
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b574fed22dc1032f0800000000000000
+      internalID: -995263828609513637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFarm_Tool Animation-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 47
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ee625898fdd0650800000000000000
+      internalID: 6200858043696475731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFarm_Tool Animation-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb812544430b368e0800000000000000
+      internalID: -1701322495684896580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelFarm_Tool Animation-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72edd675258c36c10800000000000000
+      internalID: 2045698911736028711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PixelFarm_Tool Animation-Sheet_0: -8664310418912088585
+      PixelFarm_Tool Animation-Sheet_1: 5162215901948227220
+      PixelFarm_Tool Animation-Sheet_10: -1948195748259738904
+      PixelFarm_Tool Animation-Sheet_11: 1421762890059359561
+      PixelFarm_Tool Animation-Sheet_12: -2482283796935281640
+      PixelFarm_Tool Animation-Sheet_13: -995263828609513637
+      PixelFarm_Tool Animation-Sheet_14: 6200858043696475731
+      PixelFarm_Tool Animation-Sheet_15: -1701322495684896580
+      PixelFarm_Tool Animation-Sheet_16: 2045698911736028711
+      PixelFarm_Tool Animation-Sheet_2: -2285030919724667215
+      PixelFarm_Tool Animation-Sheet_3: -1728189901419390057
+      PixelFarm_Tool Animation-Sheet_4: 3890898744684140
+      PixelFarm_Tool Animation-Sheet_5: 1260069577896036552
+      PixelFarm_Tool Animation-Sheet_6: 4580069618526863220
+      PixelFarm_Tool Animation-Sheet_7: 6113816381709191417
+      PixelFarm_Tool Animation-Sheet_8: 6231388970987754774
+      PixelFarm_Tool Animation-Sheet_9: 515435139293625333
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
